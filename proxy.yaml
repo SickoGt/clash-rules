@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor.sh
